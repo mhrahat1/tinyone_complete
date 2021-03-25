@@ -1,0 +1,65 @@
+yellow: #fcdb00;
+black: #010101;
+white: #ffffff;
+h2 clr:#313841
+b_pclr:#555555(s_h4)
+clr(s_p):#898989
+898989
+-------------------------------
+font size:
+menu text:
+xxl  xl   lg     md    sm   xsm
+22   22   22     20    18   18px;
+-----------------------------------
+slider:
+-------------------------------------
+font size
+                xxl/xl/lg/md            sm/col
+h1                 32px                  25
+h2                 20px
+p                  16px
+letter specing:  xxl/xl/lg     md       sm        col
+h1                           
+h2                  2px        1px
+p                    1px        0    
+-------------------------------------
+---------------------------------------
+feature:
+----------------------------------------
+padding:           xxl/xl/lg      md          sm/col
+top-bottom: 
+                      100         80         60-70      
+                      120         100        70-80 
+
+margin-top:70 for feature
+
+
+h1:                 xxl/xl/lg/md          sm        col
+                        32
+
+p                   xxl/xl/lg/md          sm        col                     
+
+
+
+h2:                  xxl/xl/lg/md          sm        col
+
+
+Examples
+Shop
+License
+
+
+Contact
+About
+Privacy
+Terms
+
+
+Download
+Support
+Documents
+
+
+Media
+Blog
+Forums

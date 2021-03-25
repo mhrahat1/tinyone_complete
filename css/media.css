@@ -1,0 +1,223 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+.menu ul li a {
+    font-size: 18px;
+    padding: 5px 0px !important;
+    text-align: right;
+	/*header end*/
+    }
+        /*slider*/
+    .banner {
+    padding: 20px 0 80px;
+    }
+    .b_content {
+    margin-top: 10px;
+    }
+    .b_content h1 {
+    font-size: 25px;
+    }
+    .b_content h2 {
+    margin: 15px 0 20px;
+    }
+    .b_icon li i {
+    margin-right: 15px;
+    font-size: 35px;
+    }
+    .c_carousel {
+    bottom: -60px;
+    }
+    .c_carousel [data-bs-target] {
+    width: 13px;
+    height: 13px;
+    }
+    /*slider*/
+    /*feature section start*/
+    .feature{
+    padding: 60px 0 70px;
+    }
+    .f_h1 {
+    margin: 0px 0 10px;
+    font-size: 25px;
+    }
+    .f_p {
+    font-size: 17px;
+    letter-spacing: 0px;
+    }
+    .f_single {
+    margin-top: 30px;
+    }
+    .f_icon i {
+    font-size: 40px;
+    }
+    .f_body {
+    text-align: center;
+    }
+    .f_body h2 {
+    margin-bottom: 10px;
+    }
+    .f_body p {
+    letter-spacing: 0px;
+    }
+    /*feature section end*/
+    /*support start*/
+    .support{
+    padding: 60px 0 70px;
+    }
+    .c_form {
+    margin-top: 25px;
+    margin-bottom: 35px;
+    }
+    .c_email {
+    height: 45px;
+    }
+    .c_button {
+    margin-top: 15px;
+    height: 45px;
+    }
+    .sup_icon i {
+    margin: 0px 7px;
+    font-size: 35px;
+    }
+    /*support end*/
+    footer{
+    padding-bottom:40px;
+    }
+    .f_1 {
+    text-align: center;
+    margin-bottom: 30px;
+    }
+    /*footer end*/
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+.menu ul li a {
+    font-size: 18px;
+    padding: 5px 0px !important;
+    text-align: right;
+	/*header end*/
+    }
+    /*slider*/
+    .banner {
+    padding: 20px 0 80px;
+    }
+    .b_content {
+    margin-top: 10px;
+    }
+    .b_content h2 {
+    margin: 15px 0 20px;
+    }
+    .b_icon li i {
+    margin-right: 15px;
+    font-size: 35px;
+    }
+    .c_carousel {
+    bottom: -60px;
+    }
+    .c_carousel [data-bs-target] {
+    width: 13px;
+    height: 13px;
+    }
+    /*slider*/
+    /*feature section start*/
+    .feature{
+    padding: 60px 0 70px;
+    }
+    .f_h1 {
+    margin: 0px 0 10px;
+    font-size: 25px;
+    }
+    .f_p {
+    font-size: 18px;
+    letter-spacing: 0px;
+    }
+    .f_single {
+    margin-top: 30px;
+    }
+    .f_icon i {
+    font-size: 40px;
+    }
+    .f_body {
+    text-align: center;
+    }
+    .f_body h2 {
+    margin-bottom: 10px;
+    }
+    /*feature section end*/
+    /*support start*/
+    .support{
+    padding: 60px 0 70px;
+    }
+    .c_form {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    }
+    .sup_icon i {
+    margin: 0px 10px;
+    font-size: 35px;
+    }
+    /*support end*/
+    /*footer start*/
+    footer{
+    padding-bottom:30px;
+    }
+    .f_1 {
+    text-align: center;
+    margin-bottom: 50px;
+    }
+    /*footer end*/
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header stat*/
+.menu ul li a {
+    font-size: 20px;
+    padding: 5px 0px !important;
+    text-align: right;
+    }
+	/*header end*/
+    /*banner start*/
+    .b_content {
+    margin-top: 50px;
+    }
+    .b_content h2 {
+    letter-spacing: 1px;
+    }
+    /*banner end*/
+    /*feature section start*/
+    .feature{
+    padding: 80px 0 100px;
+    }
+    .f_single {
+    margin-top: 50px;
+    }
+    /*feature section end*/
+    /*support start*/
+    .support{
+    padding: 80px 0 100px;
+    }
+    .c_form {
+    margin-top: 35px;
+    margin-bottom: 50px;
+    }
+    /*support end*/
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/*Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	
+}
